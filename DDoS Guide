@@ -1,0 +1,9 @@
+Use this commands in your Terminal:
+
+cd Desktop
+git clone https://github.com/sawongam.com/xerxes
+ls
+cd XERXES
+ls 
+gcc XERXES.c -o XERXES
+"./XERXES "ip address and port number"
