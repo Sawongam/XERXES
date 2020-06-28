@@ -6,4 +6,4 @@ ls
 cd xerxes
 ls 
 gcc xerxes.c -o xerxes
-"./xerxes example.com 80
+./xerxes example.com 80
