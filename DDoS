@@ -3,7 +3,7 @@ Use this commands in your Terminal:
 cd Desktop
 git clone https://github.com/sawongam/xerxes
 ls
-cd XERXES
+cd xerxes
 ls 
-gcc XERXES.c -o XERXES
-"./XERXES "ip address and port number"
+gcc xerxes.c -o xerxes
+"./xerxes example.com 80
